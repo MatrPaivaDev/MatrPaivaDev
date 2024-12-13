@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Matheus, I am 26 years old, and <br>I am currently in the fourth semester of Systems Analysis <br>and Development. I am seeking an opportunity <br>to grow in the technology field and contribute <br>to challenging projects. I have strong communication skills,<br>experience in teamwork, a quick ability to learn, <br>and great determination.
+My name is Matheus, I am 26 years old, and I am currently in the fourth semester of Systems Analysis and Development.<br>I am seeking an opportunity to grow in the technology field and contribute to challenging projects.<br>I have strong communication skills, experience in teamwork, a quick ability to learn, and great determination.
 
 
 ## 🌐 Socials:
